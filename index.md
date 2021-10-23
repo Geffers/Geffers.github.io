@@ -2,7 +2,7 @@
 
 **_Coming soon, not yet available_**
 
-**This will be a selection of simple script files to maintain or enhance
+**Raspberry Pi - the computer not the pudding.  This will be a selection of simple script files to maintain or enhance
 your favourite SBC**
 
 Your Raspberry Pi is like a family pet, so many projects, some headless, some with Desktop, this site will offer some simple
