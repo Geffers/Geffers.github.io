@@ -12,6 +12,19 @@ I recently had a Pi 1 (Original Chinese examle), it runs headless and offers var
 over the network needed a Desktop to simplify setup.  I Pi 1 running a desktop, perfectly adequate for what I needed then shut down Desktop GUI and
 the VNC server.
 
+### What do I use my Pi for?
+
+- Web Server
+- Media Server
+- Xsane scanner server
+- Mumble VOIP server
+- Kodi
+- TVHeadend client and server (enable TV to stream via ethernet, saves extension antenna cable)
+- ADS-B receiver for aircraft tracking
+
+**More to follow**
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
