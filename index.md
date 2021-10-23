@@ -1,4 +1,4 @@
-## Welcome to Geffer's GitHub Pages
+## 
 
 **_Coming soon, not yet available_**
 
