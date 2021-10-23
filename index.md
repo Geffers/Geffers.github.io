@@ -6,7 +6,7 @@
 your favourite SBC**
 
 Your Raspberry Pi is like a family pet, so many projects, some headless, some with Desktop, this site will offer some simple
-tasks to automate function, for example.  Many headless systems would benefit from having a Desktop GUI on occasions and VNC access
+tasks to automate function, for example,  many headless systems would benefit from having a Desktop GUI on occasions and VNC access
 but both of these take up resources.  It is very easy to start in Terminal Mode, enable the Desktop and VNC, do what you need to do then
 shut down those services again.
 
