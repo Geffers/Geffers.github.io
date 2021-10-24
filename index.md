@@ -11,18 +11,19 @@ but both of these take up resources.  It is very easy to start in Terminal Mode,
 shut down those services again.
 
 I recently had a Pi 1 (Original Chinese example), it runs headless and offers various server functions, trying to get Xsane to offer scanning
-over the network needed a Desktop to simplify setup.  I Pi 1 running a desktop, perfectly adequate for what I needed then shut down Desktop GUI and
+over the network needed a Desktop to simplify setup.  A Pi 1 running a desktop, perfectly adequate for what I needed then shut down Desktop GUI and
 the VNC server.
 
 ### What do I use my Pi for?
 
-- Web Server
-- Media Server
+- Pi-Hole (ad blocker)
+- Web Server (Apache2)
+- Media Server (MiniDLNA)
 - Xsane scanner server
 - Mumble VOIP server
 - Kodi
 - TVHeadend client and server (enable TV to stream via ethernet, saves extension antenna cable)
-- ADS-B receiver for aircraft tracking
+- ADS-B receiver for aircraft tracking - Feeds Flightaware, FlightRadar24 and ADSBExchange
 
 **More to follow**
 
