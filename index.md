@@ -17,6 +17,7 @@ the VNC server.
 ### What do I use my Pi for?
 
 - Pi-Hole (ad blocker)
+- Personal VPN
 - Web Server (Apache2)
 - Media Server (MiniDLNA)
 - Xsane scanner server
