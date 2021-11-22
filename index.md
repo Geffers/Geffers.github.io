@@ -10,9 +10,10 @@ tasks to automate function, for example,  many headless systems would benefit fr
 but both of these take up resources.  It is very easy to start in Terminal Mode, enable the Desktop and VNC, do what you need to do then
 shut down those services again.
 
-I recently had a Pi 1 (Original Chinese example), it runs headless and offers various server functions, trying to get Xsane to offer scanning
-over the network needed a Desktop to simplify setup.  A Pi 1 running a desktop, perfectly adequate for what I needed then shut down Desktop GUI and
-the VNC server.
+**Pi 1 runs off an attached powered HD**
+
+I recently had a Pi 1 (Original Chinese example), only 256MB memory, it runs headless and offers various server functions  I was trying to get Xsane to offer scanning over the network but needed a Desktop to simplify setup.  A Pi 1 running a desktop, perfectly adequate for what I needed then shut down Desktop GUI and
+the VNC server.  I did increase the swapfile to 512MB. The Pi uses the SD card merely to boot, the operating system is on an attached powered hard drive.
 
 ### What do I use my Pi for?
 
