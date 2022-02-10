@@ -1,7 +1,5 @@
 ## Welcome to Geffer's Github Pages
 
-**_Coming soon, not yet available_**
-
 **Raspberry Pi - the computer not the pudding.  This will be a selection of simple script files to maintain or enhance
 your favourite SBC**
 
